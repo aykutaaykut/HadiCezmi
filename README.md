@@ -1,8 +1,8 @@
 # HadiCezmi
 This project is the term project of Software Engineering class. In this project, I and my group friends implemented a 2-D multi-threaded multiplayer arcade game.<br/>
 
-My Group Name: UC<br/>
-My Group Members: <br/>
+**My Group Name:** UC<br/>
+**My Group Members:** <br/>
 Arda Arslan<br/>
 Aykut Aykut<br/>
 Ogulcan Buyuksandalyaci<br/>
